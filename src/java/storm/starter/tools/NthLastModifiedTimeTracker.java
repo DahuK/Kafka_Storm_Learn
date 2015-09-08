@@ -1,5 +1,7 @@
 package storm.starter.tools;
 
+import org.apache.commons.collections.buffer.CircularFifoBuffer;
+
 import backtype.storm.utils.Time;
 
 /**

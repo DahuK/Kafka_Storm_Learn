@@ -1,4 +1,4 @@
-package java.storm.starter;
+package storm.starter;
 
 import storm.starter.bolt.IntermediateRankingsBolt;
 import storm.starter.bolt.RollingCountBolt;
